@@ -3,7 +3,7 @@
 # 团队：『起个名字』小组
 杨丰宇、邹雅琳、徐捷、冯梦丹、胡骢
 # 共情
-![image](https://github.com/STARTWITHDREAMS/Smart-Civil-Engineering/assets/139680265/edf871fc-ef89-4aaf-a943-04d3ecf0fba0)
+![Central_Topic](https://github.com/STARTWITHDREAMS/Smart-Civil-Engineering/assets/139680265/6b72ed3a-a14e-45f9-8aeb-92c70cd35965)
 # 定义
 ## 痛点
 ### 1.桥梁维护工程师：
