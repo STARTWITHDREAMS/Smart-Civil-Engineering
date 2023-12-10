@@ -27,6 +27,7 @@
 ![image](https://github.com/STARTWITHDREAMS/Smart-Civil-Engineering/assets/139680265/65354917-eda9-4044-80d5-e06a04fe0ae1)
 
 ### 数据集的组织
+```
 datasets
 ├── FlyingChairs_release
 │   └── data
@@ -45,6 +46,8 @@ datasets
 ├── Sintel
 │   ├── test
 │   └── training
+
+```
 ## 传感器监测
 ![image](https://github.com/STARTWITHDREAMS/Smart-Civil-Engineering/assets/139680265/671f38cb-085d-4589-8d43-4d0ce63d2e21)
 # 核心技术分析
