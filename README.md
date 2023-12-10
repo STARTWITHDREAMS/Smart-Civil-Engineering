@@ -25,7 +25,14 @@
 利用图像序列中像素在时间域上的变化以及相邻帧之间的相关性来找到上一帧跟当前帧之间存在的对应关系，从而计算出相邻帧之间物体的运动信息
 ![image](https://github.com/STARTWITHDREAMS/Smart-Civil-Engineering/assets/139680265/5633ab2c-51fe-4414-bc1a-647d7f4ac089)
 ![image](https://github.com/STARTWITHDREAMS/Smart-Civil-Engineering/assets/139680265/65354917-eda9-4044-80d5-e06a04fe0ae1)
+### 模型的优势
+仅经过一次细化，GMFlow在具有挑战性的Sintel基准测试中胜过了31次细化的RAFT。
 
+基本的GMFlow模型（无需细化）在Sintel数据（436x1024）上在V100上运行时间为57ms，A100上为26ms。
+
+在高端GPU上（例如A100），GMFlow比RAFT获得更多的加速，因为GMFlow不需要大量的顺序计算。
+
+GMFlow还简化了反向流计算，无需两次前向网络。双向流可以用于通过前向-后向一致性检查进行遮挡检测。
 ### 数据集的组织
 ```
 datasets
