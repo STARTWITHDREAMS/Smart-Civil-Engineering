@@ -23,7 +23,7 @@
 ### 摄像头安置
 ### 基于光流的运动目标检测算法
 利用图像序列中像素在时间域上的变化以及相邻帧之间的相关性来找到上一帧跟当前帧之间存在的对应关系，从而计算出相邻帧之间物体的运动信息
-
+![image](https://github.com/STARTWITHDREAMS/Smart-Civil-Engineering/assets/139680265/5633ab2c-51fe-4414-bc1a-647d7f4ac089)
 ### 模型的优势
 仅经过一次细化，GMFlow在具有挑战性的Sintel基准测试中胜过了31次细化的RAFT。
 
@@ -62,7 +62,6 @@ FlyingChairs、FlyingThings3D、Sintel 和 KITTI 数据集上的所有训练脚�
 
 请注意，基本的 GMFlow 模型（未经优化）可以在 4 个 16GB V100 GPU 上训练。为了进行精细的训练，默认情况下需要 8 个 16GB V100 或 4 个 32GB V100 或 4 个 40GB A100 GPU。可能需要根据硬件调整批处理大小和训练迭代。
 ### 实验结果
-![image](https://github.com/STARTWITHDREAMS/Smart-Civil-Engineering/assets/139680265/5633ab2c-51fe-4414-bc1a-647d7f4ac089)
 ![image](https://github.com/STARTWITHDREAMS/Smart-Civil-Engineering/assets/139680265/65354917-eda9-4044-80d5-e06a04fe0ae1)
 ### 数据的实时现实
 设计一个数据显示系统，将位移情况实时的反映到显示屏上，并且根据位移进行受力分析。
