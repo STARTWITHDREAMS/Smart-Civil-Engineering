@@ -26,7 +26,25 @@
 ![image](https://github.com/STARTWITHDREAMS/Smart-Civil-Engineering/assets/139680265/5633ab2c-51fe-4414-bc1a-647d7f4ac089)
 ![image](https://github.com/STARTWITHDREAMS/Smart-Civil-Engineering/assets/139680265/65354917-eda9-4044-80d5-e06a04fe0ae1)
 
-
+### 数据集的组织
+datasets
+├── FlyingChairs_release
+│   └── data
+├── FlyingThings3D
+│   ├── frames_cleanpass
+│   ├── frames_finalpass
+│   └── optical_flow
+├── HD1K
+│   ├── hd1k_challenge
+│   ├── hd1k_flow_gt
+│   ├── hd1k_flow_uncertainty
+│   └── hd1k_input
+├── KITTI
+│   ├── testing
+│   └── training
+├── Sintel
+│   ├── test
+│   └── training
 ## 传感器监测
 ![image](https://github.com/STARTWITHDREAMS/Smart-Civil-Engineering/assets/139680265/671f38cb-085d-4589-8d43-4d0ce63d2e21)
 # 核心技术分析
