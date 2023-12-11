@@ -65,6 +65,7 @@ FlyingChairs、FlyingThings3D、Sintel 和 KITTI 数据集上的所有训练脚�
 ![image](https://github.com/STARTWITHDREAMS/Smart-Civil-Engineering/assets/139680265/65354917-eda9-4044-80d5-e06a04fe0ae1)
 ### 数据的实时现实
 设计一个数据显示系统，将位移情况实时的反映到显示屏上，并且根据位移进行受力分析。
+![平板 (2)](https://github.com/STARTWITHDREAMS/Smart-Civil-Engineering/assets/130273480/5a655ff6-c7bc-4aa3-bc46-bed6fff0b826)
 
 ## 传感器监测
 ![image](https://github.com/STARTWITHDREAMS/Smart-Civil-Engineering/assets/139680265/671f38cb-085d-4589-8d43-4d0ce63d2e21)
